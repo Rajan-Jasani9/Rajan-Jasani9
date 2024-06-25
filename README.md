@@ -32,7 +32,7 @@
 <a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
 
 <h2>LeetCode</h2>
-![LeetCode Stats](https://leetcode.card.workers.dev/rajan_jasani9?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajan_jasani9?theme=dark&font=Kalam)
 
 
 
