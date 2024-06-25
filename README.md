@@ -31,7 +31,8 @@
 <a href="https://git-scm.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" width="40" alt=Git/>
 <a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
 
-<h2>Badges</h2>
+<h2>LeetCode</h2>
+![LeetCode Stats](https://leetcode.card.workers.dev/rajan_jasani9?theme=auto&font=baloo&extension=null)
 
 
 
