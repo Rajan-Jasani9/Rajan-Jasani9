@@ -5,7 +5,7 @@
 
 
  - 🌍 I'm based in **India**
-- 🖥️ See my protfolio *<u><a href=https://portfolio-git-master-rajan-jasani9.vercel.app/ target="_blank">rajanjasani.com</a></u>*
+- 🖥️ See my protfolio *<u><a href=https://rajanjasani.vercel.app/ target="_blank">rajanjasani.vercel.app</a></u>*
 - ✉️ Contact Me At *<u><a href=mailto:rajan.jasani2002@gmail.com target="_blank">rajan.jasani2002@gmail.com</a></u>*
 
 - 🤝 I'm open to Collaborating on **backend development using Python | Django | Django Rest Framework**
