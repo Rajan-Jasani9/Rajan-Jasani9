@@ -30,3 +30,4 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676620709/ease-prof/frameworks/icon-white_wxexkn.svg" height="40" width="40" alt=Fast API/>
 <a href="https://git-scm.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" width="40" alt=Git/>
 <a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
+<a href="https://playwright.dev/" target="_blank" ><img src="https://playwright.dev/img/playwright-logo.svg" height="40" width="40" alt=Postman/>
