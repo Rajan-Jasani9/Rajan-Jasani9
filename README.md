@@ -5,7 +5,7 @@
 
 
  - 🌍 I'm based in **India**
-- 🖥️ See my protfolio *<u><a href=https://rajanjasani.vercel.app/ target="_blank">rajanjasani.vercel.app</a></u>*
+- 🖥️ See my protfolio *<u><a href=https://rajanjasani.in target="_blank">rajanjasani.vercel.app</a></u>*
 - ✉️ Contact Me At *<u><a href=mailto:rajan.jasani2002@gmail.com target="_blank">rajan.developer09@gmail.com</a></u>*
 
 🤝 Open to collaborating on exciting problems and impactful products
