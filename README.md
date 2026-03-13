@@ -8,7 +8,7 @@
 - 🖥️ See my protfolio *<u><a href=https://rajanjasani.vercel.app/ target="_blank">rajanjasani.vercel.app</a></u>*
 - ✉️ Contact Me At *<u><a href=mailto:rajan.jasani2002@gmail.com target="_blank">rajan.developer09@gmail.com</a></u>*
 
-- 🤝 I'm open to Collaborating on **backend development using Python | Django | Django Rest Framework**
+🤝 Open to collaborating on exciting problems and impactful products
 
 <h2>Social</h2>
 <a href="https://www.linkedin.com/in/rajanjasani" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
