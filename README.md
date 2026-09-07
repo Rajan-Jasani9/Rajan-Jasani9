@@ -69,9 +69,10 @@ Amazon Web Services · AI practices and methodologies
 
 <div align="center">
 
-![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajan-Jasani9&show_icons=true&hide_border=true&rank_icon=github)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajan-Jasani9&theme=github_dark" alt="Rajan's GitHub contribution summary" width="100%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan-Jasani9&layout=compact&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajan-Jasani9&theme=github_dark" alt="Rajan's GitHub stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajan-Jasani9&theme=github_dark" alt="Top languages by repository" height="170" />
 
 </div>
 
