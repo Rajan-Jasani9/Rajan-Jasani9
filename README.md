@@ -22,25 +22,6 @@ I build production backend systems and AI-powered products — from scalable API
 - 🧠 Currently going deeper into **system design, distributed systems, GenAI engineering, and production AI reliability**.
 - 🤝 Interested in challenging **Backend / Applied AI / GenAI Engineering** problems.
 
-## 🚀 Selected Work
-
-### [Ask.HipHop](https://ask.hiphop)
-AI-powered hip-hop knowledge platform with grounded retrieval and public entity experiences.
-
-- Built backend services using **FastAPI, PostgreSQL, Redis, AWS, S3, and vector retrieval**.
-- Designed multi-source **RAG pipelines**, metadata-aware retrieval, reranking, citations, and streaming responses.
-- Worked on asynchronous ingestion, background workers, MusicBrainz integrations, entity pages, and production deployment architecture.
-
-### BinaAI — AI-Powered Exam Preparation
-Curriculum-aware AI learning system for professional exam preparation.
-
-- Built a grounded **RAG pipeline** over textbooks and video-derived knowledge.
-- Implemented curriculum classification, citations, quizzes, access controls, and structured LLM outputs.
-- Stack includes **Django REST, FastAPI, React, PostgreSQL, LangChain, and AWS**.
-
-### Computer Vision / Product Identification
-Worked on real-time product identification and tracking workflows involving **YOLO, image embeddings, OpenCV, similarity search, and multi-camera processing**.
-
 ---
 
 ## 🧰 Tech Stack
