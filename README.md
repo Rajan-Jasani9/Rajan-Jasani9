@@ -1,33 +1,103 @@
-<h1 align="center">👋 Hola, I'm Rajan Jasani</h1>
+<div align="center">
 
-<h3 align="center">Python Developer</h3>
+# Rajan Jasani
 
+### Backend Engineer · Python / FastAPI · GenAI / RAG · AWS
 
+I build production backend systems and AI-powered products — from scalable APIs and asynchronous pipelines to retrieval systems, agents, and LLM applications.
 
- - 🌍 I'm based in **India**
-- 🖥️ See my protfolio *<u><a href=https://rajanjasani.in target="_blank">rajanjasani.vercel.app</a></u>*
-- ✉️ Contact Me At *<u><a href=mailto:rajan.jasani2002@gmail.com target="_blank">rajan.developer09@gmail.com</a></u>*
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajanjasani.in-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://rajanjasani.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajan_Jasani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanjasani)
+[![Email](https://img.shields.io/badge/Email-rajan.developer09%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajan.developer09@gmail.com)
 
-🤝 Open to collaborating on exciting problems and impactful products
+</div>
 
-<h2>Social</h2>
-<a href="https://www.linkedin.com/in/rajanjasani" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
-<a href="http://www.instagram.com/khanabadosh_r9" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
-<a href="https://www.github.com/Rajan-Jasani9" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
+---
 
-<h2>Skills</h2>
-<a href="https://www.python.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40" width="40" alt=Python/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" width="40" alt=Javascript/>
-<a href="https://www.oracle.com/java/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676727028/ease-prof/programming%20languages/java-icon_ksqmpo.svg" height="40" width="40" alt=Java/>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/html_lk2f50.svg" height="40" width="40" alt=HTML5/>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/css_ebnigo.svg" height="40" width="40" alt=CSS3/>
-<a href="https://tailwindcss.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728764/ease-prof/programming%20languages/tailwindcss_ypanrz.svg" height="40" width="40" alt=TailwindCSS/>
-<a href="https://getbootstrap.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609812/ease-prof/frameworks/boostrap_tlv0am.svg" height="40" width="40" alt=Bootstarp/>
-<a href="https://www.mysql.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729166/ease-prof/programming%20languages/mysql-6_ucn6fm.svg" height="40" width="40" alt=MySQL/>
-<a href="https://www.djangoproject.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729849/ease-prof/programming%20languages/django_crewxf.svg" height="40" width="40" alt=Django/>
-<a href="https://www.postgresql.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609816/ease-prof/databases/postgresql_jz4fc4.svg" height="40" width="40" alt=PostgreSQL/>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609813/ease-prof/frameworks/flask_pbtq3y.svg" height="40" width="40" alt=Flask/>
-<a href="https://fastapi.tiangolo.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676620709/ease-prof/frameworks/icon-white_wxexkn.svg" height="40" width="40" alt=Fast API/>
-<a href="https://git-scm.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" width="40" alt=Git/>
-<a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
-<a href="https://playwright.dev/" target="_blank" ><img src="https://playwright.dev/img/playwright-logo.svg" height="40" width="40" alt=Postman/>
+## 👨‍💻 About Me
+
+- 🐍 Backend engineer focused on **Python, FastAPI, Django, PostgreSQL, Redis, and AWS**.
+- 🤖 Building with **LLMs, RAG, agents, embeddings, vector search, reranking, and structured AI workflows**.
+- ⚙️ Comfortable designing **REST APIs, async workers, background jobs, authentication systems, caching, retrieval pipelines, and cloud deployments**.
+- 🧠 Currently going deeper into **system design, distributed systems, GenAI engineering, and production AI reliability**.
+- 🤝 Interested in challenging **Backend / Applied AI / GenAI Engineering** problems.
+
+## 🚀 Selected Work
+
+### [Ask.HipHop](https://ask.hiphop)
+AI-powered hip-hop knowledge platform with grounded retrieval and public entity experiences.
+
+- Built backend services using **FastAPI, PostgreSQL, Redis, AWS, S3, and vector retrieval**.
+- Designed multi-source **RAG pipelines**, metadata-aware retrieval, reranking, citations, and streaming responses.
+- Worked on asynchronous ingestion, background workers, MusicBrainz integrations, entity pages, and production deployment architecture.
+
+### BinaAI — AI-Powered Exam Preparation
+Curriculum-aware AI learning system for professional exam preparation.
+
+- Built a grounded **RAG pipeline** over textbooks and video-derived knowledge.
+- Implemented curriculum classification, citations, quizzes, access controls, and structured LLM outputs.
+- Stack includes **Django REST, FastAPI, React, PostgreSQL, LangChain, and AWS**.
+
+### Computer Vision / Product Identification
+Worked on real-time product identification and tracking workflows involving **YOLO, image embeddings, OpenCV, similarity search, and multi-camera processing**.
+
+---
+
+## 🧰 Tech Stack
+
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+### AI / GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![AWS Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-Vector_Search-6C63FF?style=flat-square)
+![Agents](https://img.shields.io/badge/AI_Agents-LangGraph-5A45FF?style=flat-square)
+
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## ☁️ Certification
+
+**AWS Certified AI Practitioner**  
+Amazon Web Services · AI practices and methodologies  
+[Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/d86819f14bd14addb6b92861a915890c)
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajan-Jasani9&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan-Jasani9&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Build systems. Ship products. Keep learning.
+
+</div>
